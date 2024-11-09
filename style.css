@@ -1,0 +1,49 @@
+.thick-blue-border {
+    border-color: #00ffa0;
+    border-width: 10px;
+    border-style: solid;
+  
+}
+.orange-background{
+  background-color:#00ffa0;
+  padding-right:100px;
+  padding-left:100px;
+  
+}
+
+.white-background{
+  background-color:white;
+  padding-right:px;
+  padding-left:10px;
+}
+
+.red-box {
+    background-color: #00ffa0;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    margin-left: 5px;
+    padding-top:10px ;
+    padding-bottom:10px;
+    padding-right: 10px;
+    padding-left; 10px;
+    
+}
+h1 {
+  font-family: Monospace;
+  font-style: italic;
+}
+
+h4 {
+  font-family: Monospace;
+  font-style: italic;
+  padding-bottom:50px;
+  padding-top:15px;
+}
+
+h3 {
+  font-family: Monospace;
+  font-style: italic;
+  padding-bottom:10px;
+  padding-top:10px;
+}
